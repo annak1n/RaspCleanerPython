@@ -1,7 +1,7 @@
-# Cleaner
+# RaspCleanerPython
 Autonomous cleaner with environment mapping and device tracker features using low cost components 
 
-**Authors: Vinícius Vaz and Nathan Marcelino**
+**Authors: Vinícius Vaz(https://github.com/vinicvaz) and Nathan Marcelino**
 
 ## Dependencies
 
